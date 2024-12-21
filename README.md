@@ -124,6 +124,10 @@ Flavor Fusion
 │           meals-grid.css
 │           meals-grid.module.jsx
 │
+├─── lib
+│     actions.js
+│     meals.js
+│
 ```
 
 ## Installation
