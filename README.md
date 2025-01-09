@@ -98,7 +98,7 @@ Flavor Fusion
 │            page.module.css
 │
 │
-├───assets -------> Alll images's sources
+├───assets ------> Alll images's sources
 │
 │
 ├───components
