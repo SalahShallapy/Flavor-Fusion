@@ -23,7 +23,7 @@ export default async function MelasPage() {
           Delicious meals, created{" "}
           <span className={classes.highlight}>by you</span>
           <p>
-            Choose your own recipe and try cooking it, it&apos;s gonna be fun
+            Choose your own recipe and try cooking it, it&apos;s gonna be fun !
           </p>
           <p className={classes.cta}>
             <Link href="/meals/share">Share your favorite recipe</Link>
