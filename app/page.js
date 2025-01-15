@@ -49,7 +49,7 @@ export default function Home() {
           <p>
             Join to participate in exclusive cooking events, find inspiration
             for your next meal, and leave your mark by sharing recipes that
-            reflect your unique taste and creativity
+            reflect your unique taste and creativity.
           </p>
         </section>
       </main>
