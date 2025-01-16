@@ -40,7 +40,7 @@ export default function Home() {
         <section className={classes.section}>
           <h2>Why Flavor Fusion Food?</h2>
           <p>
-            Flavor Fusion Food is not just a recipe-sharing site—it&#39;s a
+            Flavor Fusion Food isn&#39;t just a recipe-sharing site—it&#39;s a
             vibrant community where food unites people. Whether you are looking
             to discover new dishes, improve your cooking skills, or simply
             connect with like-minded individuals, this platform offers endless
