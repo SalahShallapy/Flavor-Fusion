@@ -27,9 +27,9 @@ export default function Home() {
           <p>
             Flavor Fusion Food is a dynamic community-driven platform where food
             enthusiasts can share their cherished recipes with the world.
-            Discover a treasure trove of unique dishes contributed by passionate
-            cooks and learn how to create culinary masterpieces in your own
-            kitchen.
+            Discover a treasure trove of unique dishes contributed by
+            passionate, cooks and learn how to create culinary masterpieces in
+            your own kitchen.
           </p>
           <p>
             Explore recipes from every corner of the globe, connect with fellow
