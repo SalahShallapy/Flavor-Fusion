@@ -23,7 +23,7 @@ export default function Home() {
       </header>
       <main>
         <section className={classes.section}>
-          <h2>How it works</h2>
+          <h2>How it works?</h2>
           <p>
             Flavor Fusion Food is a dynamic community-driven platform where food
             enthusiasts can share their cherished recipes with the world.
