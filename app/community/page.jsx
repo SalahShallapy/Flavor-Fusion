@@ -24,7 +24,7 @@ export default function CommunityPage() {
           </li>
           <li>
             <Image src={communityIcon} alt="A crowd of people, cooking" />
-            <p>Find alot of new friends & like-minded peopldsdsfsde</p>
+            <p>Find alot of new friends & like-minded people</p>
           </li>
           <li>
             <Image
