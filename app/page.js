@@ -13,7 +13,7 @@ export default function Home() {
         <div>
           <div className={classes.hero}>
             <h1>Flavor Fusion Food for NextLevel Foodies</h1>
-            <p>Taste & share food from all over the world</p>
+            <p>Taste & share food from all over the world.</p>
           </div>
           <div className={classes.cta}>
             <Link href="/community">Join the Community</Link>
